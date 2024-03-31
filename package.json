@@ -1,0 +1,29 @@
+{
+  "name": "animatehtmlwithscss",
+  "version": "1.0.1",
+  "description": "Record animate html with scss, for component use it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landbird111/AnimateHtmlWithScss.git"
+  },
+  "keywords": [
+    "animate",
+    "html",
+    "css",
+    "scss",
+    "typescript"
+  ],
+  "author": "landbird111",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/landbird111/AnimateHtmlWithScss/issues"
+  },
+  "homepage": "https://github.com/landbird111/AnimateHtmlWithScss#readme",
+  "devDependencies": {
+    "sass": "^1.72.0"
+  }
+}
